@@ -1,11 +1,14 @@
 # GoArrow-VVSEdition
-Forked GoArrow from Virindi SVN repo
+Forked Xanius/GoArrow-VVSEdition
 
+This stops GoArrow from clearing the dungeon cache.
 
-To install download the two files under releases, the DLL and dll.config.
+Download GoArrow.dll and copy it wherever Virindi GoArrow is installed. Something like: C:\Games\VirindiPlugins\GoArrowVVSEdition
 
-Copy to your goarrow folder, default is C:\Games\VirindiPlugins\GoArrowVVSEdition
+Overwrite GoArrow.dll if prompted.
 
-Click yes to overwrite the two files
+Download Dungeon.Map.Cache.zip and extract the contents to wherever Virindi GoArrow is installed. Something like: C:\Games\VirindiPlugins\GoArrowVVSEdition\Dungeon Map Cache
+
+Overwrite contents if prompted.
 
 Restart AC if it's already open.
